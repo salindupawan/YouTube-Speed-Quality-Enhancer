@@ -48,7 +48,6 @@ YouTube-Speed-Quality-Enhancer/
 ├── manifest.json       # Extension configuration & permissions
 ├── content.js          # Core logic for UI injection & manipulation
 ├── README.md           # Project documentation
-├── .gitignore          # Files to exclude from Git tracking
 └── icons/              # Branding assets
     ├── icon16.png      # Favicon size
     ├── icon48.png      # Extension management size
